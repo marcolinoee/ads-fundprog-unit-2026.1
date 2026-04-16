@@ -4,3 +4,4 @@ fatiasporpessoa = fatia // pessoas
 sobra = fatiasporpessoa % pessoas
 
 print('Cada pessoa ira comer',fatiasporpessoa,'fatias,e sobrara',sobra,'fatias')
+print('Cada pessoa ira comer',fatiasporpessoa,'fatias,e sobrara',sobra,'fatias')
